@@ -17,3 +17,9 @@ Listas
 
 *prueba*
   **Prueba**
+
+
+install.packages("ggplot2")
+
+install.packages("Rtools")
+
