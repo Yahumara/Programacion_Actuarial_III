@@ -13,3 +13,5 @@ while(z>=3 && z<=10){
   contador <- contador + 1
 }
 print(vec); print("se realizaron "); print(contador); print("pasos")
+plot(vec) #solo te muestra los puntos
+plot(vec,type="b") #te muetra los puntos unidos por lineas
