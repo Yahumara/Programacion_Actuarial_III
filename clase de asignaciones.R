@@ -15,7 +15,7 @@ msg <- "Hola"
 print(msg)
 
 x <- #Expresion incompleta para salir de ella (dejar de ejecutar) utilizo las flechitas y le doy esc
-  3
+    3
 #Impresion de un arreglo (genera una secuencia numerica)
 x <- 1:20
 x
