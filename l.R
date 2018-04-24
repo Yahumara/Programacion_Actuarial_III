@@ -8,7 +8,7 @@ y
 #2. Estudio la manera en que se guardara
 dput(y)
 #3Lo guardo en mi disco duro
-dput(y, file="\GitHub\Programacion_Actuarial_III/y.R")
+dput(y, file="/GitHub/Programacion_Actuarial_III/y.R")
 #4. Genero un nuevo objeto a partir de la informacion guardada
 
 

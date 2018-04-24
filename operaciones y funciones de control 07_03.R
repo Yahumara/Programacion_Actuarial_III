@@ -103,6 +103,7 @@ while(count<10){
   count <- count + 1
 }
 
+
 #rbinom genera un numero aleatorio
 set.seed(1) #A partir de este numero se empiezan a generar los numeros aleatorios
 z <- 5
